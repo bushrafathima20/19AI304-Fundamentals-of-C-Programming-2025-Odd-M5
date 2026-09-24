@@ -15,7 +15,7 @@
   Declare two functions:
   - `swapv(int, int)` for swapping using call by value  
   - `swapr(int *, int *)` for swapping using call by reference
-### Step 4: 
+### Step 4:  
   In the `main()` function, declare two integer variables `a` and `b` and initialize them with values (e.g., 10 and 20).
 ### Step 5: 
   Print the values of `a` and `b` before calling `swapv()`.
